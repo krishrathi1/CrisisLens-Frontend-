@@ -1,0 +1,58 @@
+export const configurations = [
+    {
+        scraper: "Twitter",
+        description: "Scrape tweets from trending topics, including discussions on disaster management. This tool focuses on capturing real-time data and popular trends on Twitter.",
+        status: true,
+        icon: "/scrapers/twitter.png",
+        speed: 8,
+    },
+    {
+        scraper: "Facebook",
+        description: "Scrape posts related to disaster management from Facebook. This tool focuses on retrieving relevant discussions and posts from Facebook’s platform.",
+        status: false,
+        icon: "/scrapers/facebook.png",
+        speed: 5,
+    },
+    {
+        scraper: "Instagram",
+        description: "Extract posts and stories related to disaster management from Instagram. This scraper is designed to capture visual and textual content from Instagram.",
+        status: true,
+        icon: "/scrapers/instagram.png",
+        speed: 6,
+    },
+    {
+        scraper: "Reddit",
+        description: "Collect posts and discussions about disaster management from Reddit. This tool monitors relevant threads and community conversations.",
+        status: false,
+        icon: "/scrapers/reddit.png",
+        speed: 5,
+    },
+    {
+        scraper: "NDTV",
+        description: "Extract trending news articles and updates from NDTV. This scraper is designed to monitor the latest developments and news highlights.",
+        status: true,
+        icon: "/scrapers/ndtv.png",
+        speed: 7,
+    },
+    {
+        scraper: "Indian Express",
+        description: "Collect trending topics and current news from the Indian Express. This tool helps in retrieving the most relevant news stories and updates.",
+        status: true,
+        icon: "/scrapers/the_indian_express.png",
+        speed: 7,
+    },
+    {
+        scraper: "The Hindu",
+        description: "Gather trending news and important updates from The Hindu. This scraper ensures access to major headlines and significant events.",
+        status: true,
+        icon: "/scrapers/the_hindu.png",
+        speed: 7,
+    },
+    {
+        scraper: "Times of India",
+        description: "Fetch trending news and recent updates from the Time of India. This tool captures the latest news trends and critical updates.",
+        status: true,
+        icon: "/scrapers/times_of_india.png",
+        speed: 8,
+    },
+];

@@ -1,0 +1,50 @@
+.mapboxgl-ctrl {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+}
+.mapboxgl-ctrl-button {
+    background: #007cbf;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.popup-content {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    background-color: #ffffff; /* White background */
+    border: 1px solid #007bff; /* Blue border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    max-width: 200px; /* Optional: Limit width of popup */
+    opacity: 1; /* Start hidden */
+}
+
+.popup-content h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #007bff; /* Blue text */
+}
+
+.popup-content p {
+    margin: 5px 0;
+}
+
+/* Remove the default popup base styles */
+.mapboxgl-popup-content {
+    background: none;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+}
+
+/* Hide the default close button */
+.mapboxgl-popup-close-button {
+    display: none;
+}

@@ -1,0 +1,98 @@
+export const posts = [
+    {
+        description: "The 2024 Gujarat floods have caused widespread devastation. Thousands are displaced, and rescue operations are in full swing. Stay safe and stay informed.",
+        image: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202309/upfront-flood-of-allegations-293350532-16x9.jpg?VersionId=Y.4KJR8lyrnGZeh5oxeseKdkC1LbCP9B&size=690:388",
+        platform: "Twitter",
+        source: "https://x.com/Gujarat_weather/status/1832691365916111296",
+    },
+    {
+        description: "Heartbreaking visuals from Gujarat as floods sweep through several districts. Authorities are working round the clock to ensure relief reaches all affected areas.",
+        image: "https://static.toiimg.com/thumb/msid-92809642,width-1280,height-720,resizemode-4/92809642.jpg",
+        platform: "NDTV",
+        source: "https://www.ndtv.com/feature/absolute-heroes-men-carry-dog-on-cot-wade-through-deep-neck-water-amid-gujarat-floods-6489192",
+    },
+    {
+        description: "Gujarat flood victims are in dire need of help. Relief camps are being set up, and donations are being accepted. Let's come together to support those in need.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNNwKZGqzgRw861wGzHBq3iCfJWNScsBEewA&s",
+        platform: "The Hindu",
+        source: "https://www.thehindu.com/news/national/gujarat/rains-cause-extensive-damage-to-standing-crop-claim-49-lives-in-gujarat/article68605899.ece",
+    },
+    {
+        description: "Rescue teams are tirelessly working in Gujarat as the flood situation remains critical. Over 10,000 people have been evacuated so far.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qNW8DRyxfOhMNYBPwTAA4RU8Nrxhn2qNSg&s",
+        platform: "Twitter",
+        source: "https://twitter.com/ANI/status/1703234567890123456",
+    },
+    {
+        description: "Prayers for Gujarat. The floods have impacted many lives. Stay updated and donate to trusted organizations to aid in relief efforts.",
+        image: "https://i.ytimg.com/vi/h_zSqeKZpvI/maxresdefault.jpg",
+        platform: "LinkedIn",
+        source: "https://linkedin.com/posts/GujaratFloodRelief2024",
+    },
+    {
+        description: "Heavy rains continue to batter Gujarat, leading to severe flooding. The situation is being monitored closely by the government.",
+        image: "https://th-i.thgim.com/public/incoming/tfa3e2/article67321263.ece/alternates/FREE_1200/PTI09_18_2023_000246A.jpg",
+        platform: "Twitter",
+        source: "https://twitter.com/BBCIndia/status/1704234567890123456",
+    },
+    {
+        description: "Gujarat flood update: Rescue operations are in full force, with the Indian Army and NDRF teams on the ground. Stay safe and follow advisories.",
+        image: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202309/upfront-flood-of-allegations-293350532-16x9.jpg?VersionId=Y.4KJR8lyrnGZeh5oxeseKdkC1LbCP9B&size=690:388",
+        platform: "Twitter",
+        source: "https://twitter.com/NDTV/status/1705234567890123456",
+    },
+    {
+        description: "Floodwaters have submerged many parts of Gujarat. Rescue operations continue, but the challenges are immense. Keep following for live updates.",
+        image: "https://static.toiimg.com/thumb/msid-92809642,width-1280,height-720,resizemode-4/92809642.jpg",
+        platform: "Instagram",
+        source: "https://instagram.com/p/FloodInGujarat2024",
+    },
+    {
+        description: "Local heroes rise to the occasion in Gujarat, helping flood victims reach safety. This is the spirit of unity we need in these times of crisis.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNNwKZGqzgRw861wGzHBq3iCfJWNScsBEewA&s",
+        platform: "Facebook",
+        source: "https://facebook.com/posts/GujaratFloodHeroes",
+    },
+    {
+        description: "Gujarat Flood 2024: Several districts are underwater. Emergency services are overwhelmed, and more help is needed. Donate if you can.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qNW8DRyxfOhMNYBPwTAA4RU8Nrxhn2qNSg&s",
+        platform: "LinkedIn",
+        source: "https://linkedin.com/posts/GujaratFlood2024Donate",
+    },
+    {
+        description: "Disturbing images show the extent of the flood damage in Gujarat. Stay strong, Gujarat. Relief efforts are underway.",
+        image: "https://i.ytimg.com/vi/h_zSqeKZpvI/maxresdefault.jpg",
+        platform: "Twitter",
+        source: "https://twitter.com/TimesNow/status/1706234567890123456",
+    },
+    {
+        description: "Gujarat flood survivors share their harrowing stories. It's a reminder of the importance of timely disaster preparedness and response.",
+        image: "https://th-i.thgim.com/public/incoming/tfa3e2/article67321263.ece/alternates/FREE_1200/PTI09_18_2023_000246A.jpg",
+        platform: "Instagram",
+        source: "https://instagram.com/p/SurvivorStoriesGujarat2024",
+    },
+    {
+        description: "Volunteers are the backbone of relief efforts in Gujarat. Their selfless work is making a difference in the lives of flood victims.",
+        image: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202309/upfront-flood-of-allegations-293350532-16x9.jpg?VersionId=Y.4KJR8lyrnGZeh5oxeseKdkC1LbCP9B&size=690:388",
+        platform: "Facebook",
+        source: "https://facebook.com/posts/VolunteerHeroesGujarat",
+    },
+    {
+        description: "Authorities urge people to avoid flood-affected areas in Gujarat. Stay safe, stay informed, and follow official guidelines.",
+        image: "https://static.toiimg.com/thumb/msid-92809642,width-1280,height-720,resizemode-4/92809642.jpg",
+        platform: "Twitter",
+        source: "https://twitter.com/ANI/status/1707234567890123456",
+    },
+    {
+        description: "Flood relief camps in Gujarat are providing shelter and food to thousands. Help is still needed, and donations are welcome.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNNwKZGqzgRw861wGzHBq3iCfJWNScsBEewA&s",
+        platform: "LinkedIn",
+        source: "https://linkedin.com/posts/GujaratFloodReliefCamps2024",
+    },
+    {
+        description: "Gujarat flood survivors share their harrowing stories. It's a reminder of the importance of timely disaster preparedness and response.",
+        image: "https://th-i.thgim.com/public/incoming/tfa3e2/article67321263.ece/alternates/FREE_1200/PTI09_18_2023_000246A.jpg",
+        platform: "Instagram",
+        source: "https://instagram.com/p/SurvivorStoriesGujarat2024",
+    },
+];
